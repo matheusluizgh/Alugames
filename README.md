@@ -25,3 +25,4 @@ Projeto criado como parte dos estudos de JavaScript, servindo como prática de D
 
 - GitHub: https://github.com/matheusluizgh
 - LinkedIn: https://www.linkedin.com/in/matheusfavoretto
+- Email: matheus.favoretto01@gmail.com
